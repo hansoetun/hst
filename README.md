@@ -10,3 +10,5 @@ edit laptop
 edit desktop
 
 text desktop
+
+text laptop
